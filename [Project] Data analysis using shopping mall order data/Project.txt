@@ -1,2 +1,5 @@
 [Project] Data analysis using shopping mall order data
 [Project] 쇼핑몰 주문 데이터를 활용한 데이터 분석
+
+csv 파일의 용량이 너무 커서 압축해서 올렸습니다
+압축 해제후 사용바랍니다
