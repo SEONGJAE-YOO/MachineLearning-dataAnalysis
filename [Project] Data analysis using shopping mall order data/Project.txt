@@ -1,0 +1,2 @@
+[Project] Data analysis using shopping mall order data
+[Project] 쇼핑몰 주문 데이터를 활용한 데이터 분석
